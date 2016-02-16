@@ -1,0 +1,4 @@
+{
+  "strictSSL": false,
+  "proxy": "http://proxy.vsps.nl:8080"
+}

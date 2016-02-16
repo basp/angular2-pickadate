@@ -1,0 +1,21 @@
+{
+  "name": "angular2-pickadate",
+  "version": "1.0.0",
+  "description": "Angular 2 directive for pickadate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basp/angular2-pickadate.git"
+  },
+  "dependencies": {
+    "angular2": "2.0.0-beta.6"
+  },
+  "author": "Bas Pennings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basp/angular2-pickadate/issues"
+  },
+  "homepage": "https://github.com/basp/angular2-pickadate#readme"
+}
